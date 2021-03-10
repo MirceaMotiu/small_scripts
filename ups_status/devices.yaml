@@ -1,0 +1,29 @@
+devices:
+  lan_devices:
+    router:
+      ip: "192.168.1.49"
+      user: "admin"
+      password: ""
+
+    access_point:
+      ip: "192.168.1.51"
+      user: "admin"
+      password: ""
+
+
+  servers:
+    nas-server:
+      ip: "192.168.1.200"
+      user: "mircea"
+      password: ""
+
+    rpi1:
+      ip: "192.168.1.201"
+      user: "pi"
+      password: ""
+
+    rpi2:
+      ip: "192.168.1.202"
+      user: "pi"
+      password: ""
+
